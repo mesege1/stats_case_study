@@ -16,4 +16,5 @@ The correlation test determines whether the null hypothesis can be rejected base
 # Visualization
 Scatter plot and histograms are used to visualize the distribution of correlation coefficients and p-values.
 # Conclusion
-Based on the hypothesis test results, our team can draw conclusions that the relationship between 'weight' and 'mpg' in the population. The analysis provides insights into the significance and direction of the relationship, aiding in understanding the impact of weight on a vehicle's MPG.
+The correlation coefficient of -0.831741 between MPG and weight suggests a strong negative linear relationship between these two variables in the population. The negative sign of the correlation coefficient indicates that as the weight of a vehicle increases, its MPG tends to decrease.
+Overall, the negative correlation coefficient of -0.831741 indicates a strong and statistically significant inverse relationship between weight and MPG in the population of vehicles represented in the dataset.
