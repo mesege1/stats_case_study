@@ -26,5 +26,5 @@ Scatter plot and histograms are used to visualize the distribution of correlatio
 3. Sampling Distribution of the mean weight
 ![sample_distribution_weight](https://github.com/mesege1/stats_case_study/assets/135185712/117658d8-b571-45a1-b31a-c51465bf4392)
 # Conclusion
-The correlation coefficient of -0.831741 between MPG and weight suggests a strong negative linear relationship between these two variables in the population. The negative sign of the correlation coefficient indicates that as the weight of a vehicle increases, its MPG tends to decrease.
-Overall, the negative correlation coefficient of -0.831741 indicates a strong and statistically significant inverse relationship between weight and MPG in the population of vehicles represented in the dataset.
+- The correlation coefficient of -0.831741 between MPG and weight suggests a strong negative linear relationship between these two variables in the population. The negative sign of the correlation coefficient indicates that as the weight of a vehicle increases, its MPG tends to decrease.
+- Overall, the negative correlation coefficient of -0.831741 indicates a strong and statistically significant inverse relationship between weight and MPG in the population of vehicles represented in the dataset.
