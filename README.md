@@ -1,4 +1,5 @@
-![Car-Sales-Increase-In-India](https://github.com/mesege1/stats_case_study/assets/135185712/11b259fd-e5ed-4868-a5d3-9034a6e6798e)
+![1_J4C9a9p8DSIeNpz90WwZYA](https://github.com/mesege1/stats_case_study/assets/135185712/ac1cca62-656e-40fb-bc8c-54f87f9e89e4)
+
 # Hypothesis Testing for Relationship between Weight and MPG
 This project aims to investigate whether there is a statistically relationship between the weight and MPG (Miles Per Gallon) of vehicles.
 # Data
