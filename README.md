@@ -26,8 +26,10 @@ Scatter plot and histograms are used to visualize the distribution of correlatio
 ![3b2c52f2-03c7-43e1-bb76-123e0739b6f1](https://github.com/mesege1/stats_case_study/assets/135185712/e06246b1-7b57-4f70-a18b-1af3613adc98)
 4. Sampling Distribution of the mean MPG
 ![sample_distribution_mpg](https://github.com/mesege1/stats_case_study/assets/135185712/aef91e8c-b7c7-48ac-a510-4268a826c7f4)
-5. Sampling Distribution of the mean weight
+6. Sampling Distribution of the mean weight
 ![sample_distribution_weight](https://github.com/mesege1/stats_case_study/assets/135185712/117658d8-b571-45a1-b31a-c51465bf4392)
+- The shaded area between the 95th and 5th percentiles represents the 95% confidence interval for the sample mean. This interval captures the range of sample means that is expected to contain the true population mean with 95% confidence.
+- Thus, the distribution plot provides insights into the sampling distribution of the mean MPG under the null hypothesis, and the confidence interval helps understand the uncertainty around the sample estimate.
 # Conclusion
 - The correlation coefficient of -0.831741 between MPG and weight suggests a strong negative linear relationship between these two variables in the population. The negative sign of the correlation coefficient indicates that as the weight of a vehicle increases, its MPG tends to decrease.
 - Overall, the negative correlation coefficient of -0.831741 indicates a strong and statistically significant inverse relationship between weight and MPG in the population of vehicles represented in the dataset.
