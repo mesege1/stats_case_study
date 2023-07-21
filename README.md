@@ -21,14 +21,27 @@ The correlation test determines whether the null hypothesis can be rejected base
 # Visualization
 Scatter plot and histograms are used to visualize the distribution of correlation coefficients and p-values.
 1. Scatter plot & Correlation
+
 ![scatter_with_corr_line_with_sns_theme_without_y_ticks](https://github.com/mesege1/stats_case_study/assets/135185712/64d51c40-6690-4c71-a33a-34b86e3e257d)
+
+![Scatterplot_linear_regression](images/Scatterplot_linear_regression.png)
+
 2. Population data (left skewed)
+
 ![cb3b152c-f915-4656-aa84-a78e7d99f2a4](https://github.com/mesege1/stats_case_study/assets/135185712/0944ca40-c12d-45eb-b3a2-6d13b1927de5)
+
+3. Linear Regression Line
+
 ![3b2c52f2-03c7-43e1-bb76-123e0739b6f1](https://github.com/mesege1/stats_case_study/assets/135185712/e06246b1-7b57-4f70-a18b-1af3613adc98)
+
 4. Sampling Distribution of the mean MPG
+
 ![sample_distribution_mpg](https://github.com/mesege1/stats_case_study/assets/135185712/aef91e8c-b7c7-48ac-a510-4268a826c7f4)
+
 6. Sampling Distribution of the mean weight
+
 ![sample_distribution_weight](https://github.com/mesege1/stats_case_study/assets/135185712/117658d8-b571-45a1-b31a-c51465bf4392)
+
 - The shaded area between the 95th and 5th percentiles represents the 95% confidence interval for the sample mean. This interval captures the range of sample means that is expected to contain the true population mean with 95% confidence.
 - Thus, the distribution plot provides insights into the sampling distribution of the mean MPG under the null hypothesis, and the confidence interval helps understand the uncertainty around the sample estimate.
 # Conclusion
